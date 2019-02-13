@@ -319,7 +319,7 @@ def turtleLetter(letter,tur):
         tur.fd(30)
         tur.right(135)
         tur.fd(36.0555)
-        tur.left(45)
+        tur.left(135)
         tur.fd(30)
         tur.pu()
         tur.fd(5)
